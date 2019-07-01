@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/discordts/graphics/raw/master/full-logo.png" width="650" height="auto"/>
+<img src="https://github.com/discordts/graphics/raw/master/full-logo-b.png" width="650" height="auto"/>
 </div>
 
 Need help with Discord.ts? You've come to the right place!<br>
